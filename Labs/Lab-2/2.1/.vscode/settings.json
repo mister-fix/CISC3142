@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.scss": "scss",
+        "*.md": "markdown",
+        "type_traits": "cpp"
+    }
+}
